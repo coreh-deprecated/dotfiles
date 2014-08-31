@@ -1,0 +1,14 @@
+[user]
+	email = thecoreh@gmail.com
+	name = Marco Aurelio
+[color]
+	ui = true
+[alias]
+	lol = log --graph --decorate --pretty=oneline --abbrev-commit --all
+[filter "media"]
+	clean = git-media-clean %f
+	smudge = git-media-smudge %f
+[push]
+	default = simple
+[http]
+	postBuffer = 524288000

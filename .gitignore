@@ -1,0 +1,14 @@
+/*
+
+!.vim
+!.vim/**
+!.vimrc
+!.z.sh
+!.bash_profile
+!.gitignore
+!.bash_profile
+!.git-completion.bash
+!.gitconfig
+
+.netrwhist
+.DS_Store
